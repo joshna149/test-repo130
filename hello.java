@@ -2,7 +2,7 @@ class hello()
 {
 	public test repo
 	{
-		system.out.println("hello");
+		system.out.println("hello changed");
 	}
 }
 
